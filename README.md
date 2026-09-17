@@ -12,7 +12,7 @@
 - 🤖 Focused on building **intelligent systems** using data, machine learning, and software
 - 💻 Comfortable across the stack — from ML/data work to full web applications
 - 🌱 Currently exploring `[topic you're learning — e.g. LLMs / deep learning]`
-- 📫 Reach me at **`[your.email@example.com]`**
+- 📫 Reach me at **`[nitinpatel7337.com]`**
 - 🌐 Portfolio: **[portfolio-ni-tin.vercel.app](https://portfolio-ni-tin.vercel.app/)**
 
 > ⚠️ Replace anything in `[brackets]` with your real details before publishing.
@@ -66,7 +66,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/[[your-linkedin](https://www.linkedin.com/in/nitin-patel-0b484738a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FNQBkBXiR4%2BJI%2BCWdK8Lvw%3D%3D)]" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/[your-handle]" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:[your.email@example.com]"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
